@@ -18,7 +18,7 @@ tags:
 Hello,World，几乎是程序猿学习各种语言的第一个程序，如果你说你不知道hello world，我觉得你就没有必要点进来了，下面是用各种编程语言输出hello world，你都认识吗？
 下面给出源码，和图片格式的源码，方便大家复制和浏览。
 
-
+![avatar](img/post-bg-swift.jpg)
 ### 具体代码
 
 C语言版
