@@ -1,11 +1,11 @@
 ---
+layout: post
 title: Jekyll Writer详细使用教程及
 subtitle: 感觉jekyll writer有好多bug要解决。。。
-layout: post
-categories: true
 date:       2018-07-16
 author:     Min
 header-img: img/post-bg-hello.jpg
+categories: true
 tags:
     - jekyll writer
     - visual studio code
