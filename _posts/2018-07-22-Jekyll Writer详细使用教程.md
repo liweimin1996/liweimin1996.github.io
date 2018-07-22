@@ -1,11 +1,11 @@
 ---
-layout: post
-title: Jekyll Writer详细使用教程及
-subtitle: 感觉jekyll writer有好多bug要解决。。。
-date:       2018-07-16
+layout:     post
+title:      Jekyll Writer详细使用教程
+subtitle:   感觉jekyll writer有好多bug要解决。。。
+date:       2018-07-22
 author:     Min
-header-img: img/post-bg-hello.jpg
-categories: true
+header-img: img/post-bg-universe.jpg
+catalog: true
 tags:
     - jekyll writer
     - visual studio code
@@ -14,17 +14,15 @@ tags:
 ---
 
 
-
 ## 前言
-这是我用jekyll writer写的第一篇博客。
-文章出自Min个人博客，转载请申明。
+
+这是我用jekyll writer写的第一篇博客。文章出自Min个人博客，转载请申明。
 
 
-###
+## 正文
 我最近一直在用visual studio code来写我的网站，VS code用起来真的不错，而且是微软开源的一个软件。不过我在写博客时，markdown格式的md文件写起了怪怪的，我本人比较喜欢所见即所得的word类型的写作方式，但是一直没有什么好的软件来替代。直到最近一个偶然的机会用到了jekyll writer，感觉十分适合习惯word模式的程序员。
 
-## jekyll writer简介
-    
+## jekyll writer简介  
 网上关于jekyll writer的相关教程较少，而且也十分模糊，所以我便写了这篇博客。
 安装Jekyll
 ##关于Jekyll
