@@ -1,9 +1,9 @@
 # Site settings
-title: Min blog人工智能AI
+title: Min blog(=・ω・=)人工智能AI
 SEOTitle: Min blog人工智能AI喜马拉雅听书有声小说大全郭德纲相声唱吧百度Qq微信微博pps腾讯新闻优酷我狗网易云暴风行UC浏览快播放器pptv影音乐视频土豆91手机助手地图yy新浪凤凰360安全卫士搜狐bbc懒人空间邮箱贴当陌
 header-img: img/post-bg-desk.jpg
 email: liweimin1996@qq.com
-description: "Min blog免费不等于不赚钱，开源不等于有人看。人工智能AI喜马拉雅听书有声小说大全郭德纲相声唱吧百度Qq微信微博pps腾讯新闻优酷我狗网易云暴风行UC浏览快播放器pptv影音乐视频土豆91手机助手地图yy新浪凤凰360安全卫士搜狐bbc懒人空间邮箱贴当陌"
+description: "Min blog(=・ω・=)人工智能AI喜马拉雅听书有声小说大全郭德纲相声唱吧百度Qq微信微博pps腾讯新闻优酷我狗网易云暴风行UC浏览快播放器pptv影音乐视频土豆91手机助手地图yy新浪凤凰360安全卫士搜狐bbc懒人空间邮箱贴当陌"
 keyword: "AI, 电影, 游戏, 电视, 音乐, iOS, Android, 计算机, QQ, 微信, 新浪微博, 喜马拉雅听书有声小说大全郭德纲相声唱吧百度Qq微信微博pps腾讯新闻优酷我狗网易云暴风行UC浏览快播放器pptv影音乐视频土豆91手机助手地图yy新浪凤凰360安全卫士搜狐bbc懒人空间邮箱贴当陌"
 url: "https://liweimin1996.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/liweimin1996/liweimin1996.github.io.git" # you 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Min blog免费不等于不赚钱，开源不等于有人看。人工智能AI喜马拉雅听书有声小说大全郭德纲相声唱吧百度Qq微信微博pps腾讯新闻优酷我狗网易云暴风行UC浏览快播放器pptv影音乐视频土豆91手机助手地图yy新浪凤凰360安全卫士搜狐bbc懒人空间邮箱贴当陌"
+sidebar-about-description: "(=・ω・=)人工智能AI喜马拉雅听书有声小说大全郭德纲相声唱吧百度Qq微信微博pps腾讯新闻优酷我狗网易云暴风行UC浏览快播放器pptv影音乐视频土豆91手机助手地图yy新浪凤凰360安全卫士搜狐bbc懒人空间邮箱贴当陌"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
