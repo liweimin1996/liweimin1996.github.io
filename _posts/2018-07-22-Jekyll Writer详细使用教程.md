@@ -76,3 +76,4 @@ markdown的图片插入方式 ![title](http://xxx.com/xxx.png/) 是没办法修�
 Jekyll Writer是一款跨平台的Jekyll网站管理程序，它可以让使用者避免接触Git和Ruby等专业的技术而直接创建和管理基于GitHub Pages的静态网站，同时支持对文章的版本进行管理。Jekyll Writer可以通过jekyllwriter.com进行下载。
 
 好了，Jekyll不再只是Geek的玩物，大家一起High起来吧！
+不过个人感觉jekyll writer仍有很多问题需要解决，目前所见即所得的效果真的一般般，完全没有word之类的效果，我用了几次后，又恢复了用visual studio code。。。o(╯□╰)o
