@@ -18,12 +18,10 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     liweimin1996
-#zhihu_username:     liweimin1996
-#github_username:    liweimin1996
-#facebook_username:  baiying.qiu.7
-#jianshu_username:   e71990ada2fd
-#twitter_username:   liweimin1996
+weibo_username:     liweimin1996
+zhihu_username:     liweimin1996
+github_username:    liweimin1996
+twitter_username:   liweimin1996
 
 
 
