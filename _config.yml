@@ -18,12 +18,12 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-#zhihu_username:     qiubaiying
-#github_username:    qiubaiying
+# weibo_username:     liweimin1996
+#zhihu_username:     liweimin1996
+#github_username:    liweimin1996
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+#twitter_username:   liweimin1996
 
 
 
@@ -57,16 +57,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: liweimin1996
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 8bf9f6dcfa9638136442                           #生成的clientID
   clientSecret: 4bb9a7fc7918372afe9ffa0a16530a53db2ddf16    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: liweimin1996.github.io    #仓库名称
+  owner: liweimin1996    #github用户名
+  admin: liweimin1996
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -78,7 +78,7 @@ gitalk:
 
 # Google Analytics
 #ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-#ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_domain: liweimin1996.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -102,7 +102,7 @@ friends: [
         title: "WY",
         href: "http://zhengwuyang.com"
     },{
-        title: "简书·BY",
+        title: "简书",
         href: "http://www.jianshu.com"
     },{
         title: "Apple",
