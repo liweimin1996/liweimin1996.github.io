@@ -21,7 +21,7 @@ RSS: false
 weibo_username:     CyberpunkV
 zhihu_username:     lixiaoyao233
 github_username:    liweimin1996
-twitter_username:   liweimin1996
+#twitter_username:   liweimin1996
 
 
 
@@ -97,9 +97,6 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
         title: "简书",
         href: "http://www.jianshu.com"
     },{
