@@ -11,7 +11,7 @@ github_repo: "https://github.com/liweimin1996/liweimin1996.github.io.git" # you 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "(=・ω・=)人工智能AI"
+sidebar-about-description: "天生乐天派人工智能AI大数据挖掘人云计算安全计算机科学技术喜马拉雅听书有声小说大全郭德纲相声唱吧百度Qq微信微博pps腾讯新闻优酷我狗网易云暴风行UC浏览快播放器pptv影音乐视频土豆91手机助手地图yy新浪凤凰360安全卫士搜狐bbc懒人空间邮箱贴当陌"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
