@@ -4,7 +4,7 @@ title:      Google网站排名优化SEO体会
 subtitle:   如何在Google排序规则下尽量靠前
 date:       2019-03-21
 author:     Min
-header-img: img/post-Google_seo.jpg
+header-img: img/post-Google_seo.png
 catalog: true
 tags:
     - 网站
